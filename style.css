@@ -1,0 +1,14 @@
+.country{
+    
+    border: 2px solid greenyellow;
+    background-color: bisque;
+    border-radius: 10px;
+}
+
+.countries
+{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 20px;
+   
+}
